@@ -6,4 +6,4 @@ In order to run the notebook you will need to download the accompanying data fil
 - [Farm subsidies 2014-15](http://data.farmsubsidy.org/index.html?prefix=next/)
 - [Farm subsidies 2008-2013](http://data.farmsubsidy.org/index.html)
 
-For more information visit [farmsubsidies.org](http://farmsubsidy.openspending.org/).
+For more information visit the [farm subsidies website](http://farmsubsidy.openspending.org/) by [OpenSpending](https://openspending.org/).
