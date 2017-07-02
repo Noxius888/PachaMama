@@ -1,5 +1,5 @@
 # PachaMama
-Farmland grabbing in Romania. A Storyhunt project.
+Farmland grabbing in Romania. A [Storyhunt](https://storyhunt.de/) project.
 
 ### Goal
 Find instances of land grabbing in Romania, by analysing the EU Farm Subsidy data, to see if there are large foreign entities receiving EU subsidies on their Romanian land holdings (either directly or through a subsidiary). 
